@@ -1,6 +1,6 @@
-# Status Check Agent
+# Status Check Agent System
 
-A multi-lingual service status checking system that uses specialized agents to respond to status inquiries in different languages.
+A multi-lingual, multi-agent service status checking system that uses specialized agents to respond to status inquiries in different languages.
 
 ## Overview
 
