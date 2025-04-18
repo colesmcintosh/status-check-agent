@@ -1,5 +1,5 @@
 """
-Status Check Agent - Multi-lingual Service Status Monitoring System
+Status Check Agent System - Multi-lingual, multi-agent service status monitoring system
 
 This module implements a service status monitoring system that uses language-specific
 agents to handle status inquiries in different languages. The system uses a router agent
